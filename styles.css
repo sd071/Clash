@@ -1,0 +1,133 @@
+body {
+  background-color: #446A46;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 15rem;
+  margin: 0 0;
+  color: #FF7700;
+  text-align: center;
+  filter: drop-shadow(0 0 0.25rem white);
+}
+
+h3 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.5rem;
+  margin: 0 0;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 2rem;
+  color: #F190B7;
+}
+
+.row {
+  margin: 0;
+}
+
+.front-page1 {
+  padding-top: 35px;
+}
+
+.front-page2 {
+  padding: 70px 0 0 0;
+
+}
+
+.front-page3 {
+  padding-top: 35px;
+}
+
+.song {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+.song-pick {
+  color: #FFFFFF;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2rem;
+}
+
+.exlink {
+  font-size: 3rem;
+  color: #EB1D36;
+  visibility: hidden;
+}
+
+.group1 {
+  text-align: center;
+}
+
+.clash77 {
+  filter: drop-shadow(0 0 0.75rem black);
+  width: 220px;
+  margin-bottom:30px;
+}
+
+.give {
+  filter: drop-shadow(0 0 0.75rem black);
+  width: 220px;
+  margin-bottom: 30px;
+}
+
+.loncal {
+  filter: drop-shadow(0 0 0.75rem black);
+  width: 220px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.group2 {
+  text-align: center;
+}
+
+.sandan {
+  filter: drop-shadow(0 0 0.75rem black);
+  width: 220px;
+  margin-bottom: 30px;
+}
+
+.comro {
+  filter: drop-shadow(0 0 0.75rem black);
+  width: 220px;
+  margin-bottom: 30px;
+}
+
+.cutcrap {
+  filter: drop-shadow(0 0 0.75rem black);
+  width: 220px;
+  margin-bottom: 30px;
+}
+
+.operator {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.btn {
+  background-color: #990000;
+  border-radius: 50%;
+  padding: 12px 14px;
+  border-width: 5px;
+  filter: drop-shadow(0 0 0.75rem red);
+}
+
+.btn:hover {
+  color: #B33030;
+  background-color: #B33030;
+}
+
+/*.btn-outline-light {
+  color: #461111!important;
+  border-color: #461111!important;
+}*/
+
+.shuffle {
+  color: #FFFFFF;
+}
